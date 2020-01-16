@@ -39,11 +39,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: www.linkedin.com/in/wes-graham-563a9261
+    url: https://www.linkedin.com/in/wes-graham-563a9261
   - title: stack-overflow
     url: https://gis.stackexchange.com/users/55573/grahamfw
   - title: github
-    url: http://github.com/nothing-butanol
+    url: https://github.com/nothing-butanol
 
 # Postal address (add as many lines as necessary)
 address:
