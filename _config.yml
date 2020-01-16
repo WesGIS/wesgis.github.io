@@ -3,7 +3,7 @@ title: Wes Graham
 email: grahamfw91@gmail.com
 url: https://nothing-butanol.github.io
 description: "Spatial Analyst based in Sydney, Australia. My primary skills include: GIS, Statistics, FME, Remote Sensing, Automation, Scripting, and Cartography."
-keywords: "your keywords, separated by commas"
+keywords: "GIS, FME, Spatial, Analyst, Statistics, Python, ArcGIS, QGIS"
 skills: "Spatial Data Analyst - Environmental Scientist"
 meta_author: Wes Graham
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Wes Graham
-  location: Australia
+  location: Location
   social: Around the Web
   credits: Credits
 
