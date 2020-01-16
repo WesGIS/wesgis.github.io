@@ -1,8 +1,8 @@
 # Site settings
-title: Spatial Consultant
+title: Wes Graham
 email: grahamfw91@gmail.com
 url: https://nothing-butanol.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Spatial Analyst based in Sydney, Australia. My primary skills include: GIS, Statistics, FME, Remote Sensing, Automation, Scripting, and Cartography."
 keywords: "your keywords, separated by commas"
 skills: "Spatial Data Analyst - Environmental Scientist"
 meta_author: Wes Graham
@@ -31,8 +31,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Wes Graham
+  location: Australia
   social: Around the Web
   credits: Credits
 
@@ -51,8 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Sydney, Australia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
