@@ -5,7 +5,7 @@ date: 2014-07-14
 img: Maxent.png
 alt: image-alt
 project-date: 2015
-client: Jessica
+client: Personal Project
 category: Ecological Modelling
 description: 
 
