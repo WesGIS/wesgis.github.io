@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2016
 client: Personal Project
 category: Web Development
-description: View this web app here: <a href="https://grahamfw91.maps.arcgis.com/apps/webappviewer/index.html?id=7db715694295448eac39892f2c4d590a">Vision Zero - Washington D.C.</a>
+description: View this web app here: <a href="https://grahamfw91.maps.arcgis.com/apps/webappviewer/index.html?id=7db715694295448eac39892f2c4d590a">Vision Zero Washington D.C.</a>
 
 ---
