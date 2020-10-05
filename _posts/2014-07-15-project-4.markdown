@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2016
 client: Personal Project
 category: Python
-description: View interactive plots here - <a href="https://nothing-butanol.github.io/PythonExample/">Python Plotting Libraries</a>
+description: 
 ---
