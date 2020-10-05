@@ -5,7 +5,7 @@ date: 2014-07-15
 img: plotly.png
 alt: image-alt
 project-date: 2016
-client: Python
-category: Personal Project
+client: Personal Project
+category: Python
 description: 
 ---
