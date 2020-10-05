@@ -5,7 +5,7 @@ date: 2014-07-16
 img: ShireVeg.jpg
 alt: image-alt
 project-date: 2017
-client: Start Liverpool City Council
+client: Liverpool City Council
 category: Cartography
 description: 
 
