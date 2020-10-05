@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2015
+date: 2014-07-14
 img: Maxent.png
 alt: image-alt
 project-date: 2015
