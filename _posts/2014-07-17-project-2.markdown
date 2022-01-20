@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: BrisbaneLocality.jpg
+img: Chapter 17 - Hydrodynamics and water quality example1-1.png
 alt: image-alt
 project-date: 2018
-client: Personal Project
+client: TfNSW
 category: Cartography
 description: 
 
