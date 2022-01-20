@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2014-07-17
 img: NC_Property-1.png
 alt: image-alt
 project-date: 2020
