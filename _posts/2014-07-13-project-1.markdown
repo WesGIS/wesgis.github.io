@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-14
-img: Chapter 14 - Non-Aboriginal heritage example1-1.png
+img: Chapter 15 - Aboriginal cultural heritage example1-1.png
 alt: image-alt
 project-date: 2018
 client: TfNSW
-category: Non-Aboringinal heritage impact map
+category: Aboringinal heritage impact map
 description: 
 
 ---
