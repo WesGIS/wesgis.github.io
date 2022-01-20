@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: ShireVeg.jpg
+img: NC_Property-1.png
 alt: image-alt
-project-date: 2017
-client: Liverpool City Council
+project-date: 2020
+client: Personal project
 category: Cartography
 description: 
 
