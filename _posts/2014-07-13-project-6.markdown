@@ -2,11 +2,11 @@
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: Maxent.png
+img: Chapter 14 - Non-Aboriginal heritage example1-1.png
 alt: image-alt
-project-date: 2015
-client: Personal Project
-category: Ecological Modelling
+project-date: 2018
+client: TfNSW
+category: Non-Aboringinal heritage impact map
 description: 
 
 ---
