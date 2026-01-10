@@ -5,7 +5,7 @@ date: 2014-07-14
 img: FME_example.png
 alt: image-alt
 project-date: 2019
-client: Personal Project
+client: Land and Housing Corporation NSW
 category: Automation
 description: FME model for preliminary building site investigations based on environmental factors
 ---
